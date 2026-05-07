@@ -1,0 +1,41 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Logs y reportes generados
+*.log
+*.txt
+Reporte_*.txt
+
+# Archivos temporales de Windows
+*.tmp
+*.temp
+~$*
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Python (si se agregan scripts auxiliares)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Backups
+*.bak
+*.backup
+*~
