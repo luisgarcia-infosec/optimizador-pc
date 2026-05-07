@@ -57,19 +57,13 @@
 
 **No requiere instalación.** Simplemente descarga y ejecuta.
 
-### Método 1: Descarga directa
+### Método: Descarga directa
 
 1. Ve a [Releases](../../releases/latest)
 2. Descarga `OptimizadorPC_LuisGarcia.bat`
 3. Guarda en una ubicación accesible (ej: Escritorio)
 4. ¡Listo para usar!
 
-### Método 2: Clonar repositorio
-
-```bash
-git clone https://github.com/luisgarcia-infosec/optimizador-pc.git
-cd optimizador-pc
-```
 
 ---
 
