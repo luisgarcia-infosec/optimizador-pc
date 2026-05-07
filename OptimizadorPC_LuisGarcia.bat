@@ -49,7 +49,6 @@ set "logfile=%userprofile%\Desktop\Reporte_Optimizacion_%date:~-4,4%%date:~-7,2%
 echo ======================================================================== > "%logfile%"
 echo REPORTE DE OPTIMIZACION DE PC >> "%logfile%"
 echo Analista: Luis Garcia - Ciberseguridad >> "%logfile%"
-echo Division de Cibercrimen - Policia de Buenos Aires >> "%logfile%"
 echo ======================================================================== >> "%logfile%"
 echo Fecha: %date% %time% >> "%logfile%"
 echo Equipo: %computername% >> "%logfile%"
@@ -149,10 +148,7 @@ echo Hora de finalizacion: %time% >> "%logfile%"
 echo ======================================================================== >> "%logfile%"
 echo. >> "%logfile%"
 echo Analista responsable: Luis Garcia >> "%logfile%"
-echo Division de Cibercrimen - DICCO Division N°2 >> "%logfile%"
-echo Policia de la Provincia de Buenos Aires >> "%logfile%"
 echo GitHub: github.com/luisgarcia-infosec >> "%logfile%"
-echo Twitter: @LuisGarcia-InfoSec >> "%logfile%"
 echo ======================================================================== >> "%logfile%"
 
 cls
